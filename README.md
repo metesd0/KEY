@@ -1,1 +1,3 @@
-67890::31.12.2024
+# Yeni Başlık
+
+Bu dosya, API kullanılarak güncellenmiştir.
