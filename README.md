@@ -1,3 +1,1 @@
-# Yeni Başlık
-
-Bu dosya, API kullanılarak güncellenmiştir.
+67890::31.12.2024
